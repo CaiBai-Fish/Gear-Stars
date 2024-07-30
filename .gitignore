@@ -1,0 +1,19 @@
+
+/.replay_cache
+*.snbt
+/config/inventoryprofilesnext
+/crash-reports
+/data
+/Gear Stars-natives
+Gear Stars.jar
+Gear Stars.json
+*.log
+/journeymap/icon
+/logs
+/local
+/mods/.connector
+patchouli_data.json
+/PCL
+/replay_recordings
+*.properties
+/saves
